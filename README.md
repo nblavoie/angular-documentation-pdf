@@ -2,6 +2,6 @@
 
 Angular.io most up-to-date (Dec. 14, 2017). Documentation as PDF.
 
-## Known issues.
+## All the documentation in a single PDF document.
 
-- Images will soon be added to the PDF.
+[Angular 5.1.1 documentation as a single PDF](https://github.com/nblavoie/angular-documentation-pdf/blob/master/Angular_5.1.1_documentation.pdf)
