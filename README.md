@@ -1,2 +1,3 @@
-# angular-documentation-pdf
-Angular.io most up to date documentation as PDF.
+# Angular.io documentation as PDF files.
+
+Angular.io most up-to-date documentation as PDF.
