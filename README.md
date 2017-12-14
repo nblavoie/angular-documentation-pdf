@@ -1,6 +1,6 @@
-# Angular.io documentation as PDF files.
+# Angular 5.1.1 documentation as PDF files.
 
-Angular.io most up-to-date (Dec. 14, 2017) documentation as PDF (in sections).
+Angular 5.1.1 (based on Angular.io doc) most up-to-date documentation as PDF files (section).
 
 ## All the documentation as a single PDF document.
 
