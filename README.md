@@ -1,6 +1,6 @@
 # Angular 5.2.10 documentation as PDF files.
 
-**Update to 5.2.10 in progress.5.2.10
+**Update to 5.2.10 in progress.5.2.10**
 
 Angular 5.2.10 (based on Angular.io doc) most up-to-date documentation as PDF files (section).
 
